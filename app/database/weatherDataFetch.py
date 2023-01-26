@@ -7,8 +7,8 @@ conn = pymysql.connect(host='127.0.0.1', #add host
                        password='sysadmin', #add password
                        db='weather') #add database
 
-MeteomUsername = 'na_hadjiosif' #add meteomatics username
-MeteomPassword = '38moF1J0lH' #add meteomatics password
+MeteomUsername = 'username' #add meteomatics username
+MeteomPassword = 'password' #add meteomatics password
 
 coordList = [(35.112657,33.319656),
            (35.130608,33.370146),
